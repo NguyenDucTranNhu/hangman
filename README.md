@@ -1,2 +1,2 @@
-# hangman
-one day learning coding Python with a game of The Hangman
+# A Hangman
+one day learning coding Python - Oriented Object Programming within the references, in a project named The Hangman game
